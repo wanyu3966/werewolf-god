@@ -15,7 +15,6 @@ Page({
       wx.redirectTo({
         url: '../chooseLib/chooseLib',
       })
-      return
     }
 
     // 获取用户信息
